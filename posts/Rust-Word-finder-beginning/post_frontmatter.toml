@@ -1,8 +1,8 @@
-title = 'The purpose of this blog'
-file_name = 'my-first-article'
+title = 'The Rust word Finder development plan'
+file_name = 'Rust-Word-finder-beginning'
 description = 'The purpose of article is for me'
 tags = ['purpose']
-posted = '13/01/2022'
+posted = '14/01/2022'
 estimated_reading_time = 1
 author = 'Kevin Park' 
 order = 1
